@@ -8,12 +8,14 @@
 
 ### 🚀 About Me
 
-- I'm a Computer Science student learning full-stack web development  
-- I’m currently working with: HTML, CSS, JavaScript, Node.js, and Express.js  
+- Computer Science Student  
+- HTML • CSS • JavaScript • Node.js • Express  
+- Focused on mastering full-stack web development  
+- Learning by building
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 #### 💻 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
