@@ -33,18 +33,9 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
-- LinkedIn: *[[your-link](https://www.linkedin.com/in/shikhar-maurya-8a140b249/)]*  
+- LinkedIn: *[[shikhar-maurya](https://www.linkedin.com/in/shikhar-maurya-8a140b249/)]*  
 - Portfolio: *[your-site-if-any]*  
 - Email: *[shikhar.maurya2504@gmail.com]*
 
