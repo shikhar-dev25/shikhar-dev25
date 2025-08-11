@@ -36,7 +36,7 @@
 ### 📫 Let's Connect
 
 - LinkedIn: *[[shikhar-maurya](https://www.linkedin.com/in/shikhar-maurya-8a140b249/)]*  
-- Portfolio: *[your-site-if-any]*  
+--- Portfolio: *[your-site-if-any]*  
 - Email: *[shikhar.maurya2504@gmail.com]*
 
 ---
