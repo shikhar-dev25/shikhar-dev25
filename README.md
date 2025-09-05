@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shikhar 👋</h1>
+<h1 align="center">Hi, I'm Shikhar </h1>
 
 <p align="center">
   Aspiring Full-Stack Developer · CS Student · 
